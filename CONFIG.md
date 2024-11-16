@@ -94,7 +94,7 @@ Feed of mostly English-language Gundam accounts curated by @jakka-ningen.aeug.sp
 - https://bsky.app/profile/feez.bsky.social +replies +reposts
 - https://bsky.app/profile/loretype.bsky.social +replies +reposts
 - https://bsky.app/profile/astrodolphin.bsky.social +replies +reposts
-- https://bsky.app/profile/sean.zimmerit.moe.bsky.social +replies +reposts
+- https://bsky.app/profile/sean.zimmerit.moe +replies +reposts
 - https://bsky.app/profile/zhuroupai111.bsky.social +replies +reposts
 - https://bsky.app/profile/rngundam.bsky.social +replies +reposts
 - https://bsky.app/profile/carlyjayjepsen.bsky.social +replies +reposts
