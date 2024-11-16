@@ -150,7 +150,7 @@ Feed of mostly English-language Gundam accounts curated by @jakka-ningen.aeug.sp
 - https://bsky.app/profile/disturbedarty.bsky.social +replies +reposts
 - https://bsky.app/profile/silencedrowns.bsky.social +replies +reposts
 - https://bsky.app/profile/orayn.bsky.social +replies +reposts
-- https://bsky.app/profile/hanayanagi.kim.bsky.social +replies +reposts
+- https://bsky.app/profile/hanayanagi.kim +replies +reposts
 - https://bsky.app/profile/gundamseed.bsky.social +replies +reposts
 - https://bsky.app/profile/celescapra.bsky.social +replies +reposts
 - https://bsky.app/profile/tieria.bsky.social +replies +reposts
