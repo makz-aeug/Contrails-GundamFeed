@@ -86,7 +86,7 @@ Feed of mostly English-language Gundam accounts curated by @jakka-ningen.aeug.sp
 - https://bsky.app/profile/queerandangry.bsky.social +replies +reposts
 - https://bsky.app/profile/coppertucker.bsky.social +replies +reposts
 - https://bsky.app/profile/chargundam.bsky.social +replies +reposts
-- https://bsky.app/profile/xaxz-backlog.bsky.social +replies +reposts
+- https://bsky.app/profile/xaxs-backlog.bsky.social +replies +reposts
 - https://bsky.app/profile/astrophelsgunpla.bsky.social +replies +reposts
 - https://bsky.app/profile/anarconnasse.bsky.social +replies +reposts
 - https://bsky.app/profile/spacecolonystudios.bsky.social +replies +reposts
