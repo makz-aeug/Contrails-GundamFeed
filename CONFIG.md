@@ -31,7 +31,7 @@ Feed of mostly English-language Gundam accounts curated by @jakka-ningen.aeug.sp
 - https://bsky.app/profile/flytrus.bsky.social +replies +reposts
 - https://bsky.app/profile/kurolegaming.bsky.social +replies +reposts
 - https://bsky.app/profile/radiantblader.bsky.social +replies +reposts
-- https://bsky.app/profile/elonsaur.bsky.social +replies +reposts
+- https://bsky.app/profile/elonsaur.com +replies +reposts
 - https://bsky.app/profile/drygunpla.bsky.social +replies +reposts
 - https://bsky.app/profile/redtanuki.bsky.social +replies +reposts
 - https://bsky.app/profile/gundampodcast.bsky.social +replies +reposts
