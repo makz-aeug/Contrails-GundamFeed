@@ -39,7 +39,7 @@ Feed of mostly English-language Gundam accounts curated by @jakka-ningen.aeug.sp
 - https://bsky.app/profile/sayah.bsky.social +replies +reposts
 - https://bsky.app/profile/mahqdotnet.bsky.social +replies +reposts
 - https://bsky.app/profile/mecha-tho.bsky.social +replies +reposts
-- https://bsky.app/profile/mobilesuitemia.bsky.social +replies +reposts
+- https://bsky.app/profile/mobilesuitmia.bsky.social +replies +reposts
 - https://bsky.app/profile/acideater.bsky.social +replies +reposts
 - https://bsky.app/profile/feddiescum.bsky.social +replies +reposts
 - https://bsky.app/profile/jasondeathenrye.bsky.social +replies +reposts
