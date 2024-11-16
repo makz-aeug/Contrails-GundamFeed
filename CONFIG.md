@@ -70,7 +70,7 @@ Feed of mostly English-language Gundam accounts curated by @jakka-ningen.aeug.sp
 - https://bsky.app/profile/neorisinggundam.bsky.social +replies +reposts
 - https://bsky.app/profile/darckcloud723.bsky.social +replies +reposts
 - https://bsky.app/profile/spoofyhype.bsky.social +replies +reposts
-- https://bsky.app/profile/cyn-cedillia.bsky.social +replies +reposts
+- https://bsky.app/profile/cyn-cedilla.bsky.social +replies +reposts
 - https://bsky.app/profile/purufey.bsky.social +replies +reposts
 - https://bsky.app/profile/dandyguy.bsky.social +replies +reposts
 - https://bsky.app/profile/davidtgreen.bsky.social +replies +reposts
